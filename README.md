@@ -59,12 +59,6 @@ The analysis covers **13 advanced business questions**, including:
 - **Documentation:** Google Docs (PDF version included)
 
 
----
-
-## **Potential Next Steps**
-- Implement **query optimizations** (indexing, EXPLAIN ANALYZE).
-- Extend forecasting (from moving averages) using BI tools or Python.
-- Create visual dashboards using Power BI or Tableau based on these SQL outputs.
 
 ---
 
