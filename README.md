@@ -1,13 +1,13 @@
 # AdventureWorks Advanced SQL Analysis
 
 This project explores the **AdventureWorks dataset** using advanced SQL techniques to extract actionable business insights.  
-The analysis is focused on **sales, returns, customer demographics, and product performance**, and highlights how SQL can be used to answer real-world business questions.
+The analysis is focused on **sales, returns, customer demographics / segmentation, and product performance**, and highlights how SQL can be used to answer real-world business questions.
 
 ---
 
 ## **Project Files**
 - **AdventureWorks_sql_project_queries.sql**  
-  Contains all **13 advanced SQL queries** answering key business questions. The queries demonstrate:
+  Contains all **13+ advanced SQL queries** answering key business questions. Some additional queries are added throughout to do a deeper dive on the question at hand and derive more insights. The queries demonstrate:
   - CTEs (Common Table Expressions)
   - Window functions (RANK, NTILE, LAG, etc.)
   - Aggregations and KPI calculations
@@ -17,10 +17,11 @@ The analysis is focused on **sales, returns, customer demographics, and product 
 - **AdventureWorks Analysis Write-up.pdf**  
   - Each **business question** answered.
   - **Screenshots of SQL query outputs** (top results summarized).
+  - **Accompanying visuals made with Power BI for ease of interpretability**
   - **Business insights and commentary** for each query.
 
 - **README.md** 
-  Provides an overview of the project, structure, and insights.
+  - Provides an overview of the project, structure, and insights.
 
 ---
 
@@ -56,6 +57,7 @@ The analysis covers **13 advanced business questions**, including:
   - Customer segmentation (CLTV, demographics, income brackets)
   - Rolling averages and time-based KPIs
   - Pareto principle validation
+  - Many more
 - **Documentation:** Google Docs (PDF version included)
 
 
