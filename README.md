@@ -52,6 +52,11 @@ The analysis covers **13 advanced business questions**, including:
   - Subqueries and CASE statements
   - JOINS of all kinds
   - Date and time operations
+    
+ - **Power BI:** 
+  - Accompanying Visuals for ease of interpretability
+  - Integration of SQL Queries into Power Bi to accurately recreate results and visualize them
+  
 - **Data Analysis Topics:**
   - Profitability and return analysis
   - Customer segmentation (CLTV, demographics, income brackets)
